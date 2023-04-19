@@ -10,3 +10,8 @@ On the upper graph, we can see force to time correlation. The moment of the flig
 The second graph shows the same value as the upper one but on a smaller scale during the launch of our cansat.
 
 Overall, we consider our mission successful. We found out that during the overloads all of the other sensors seem to be working fine. All of the values returned by them were as we expected, there weren't any readings off the scale. We didn't see any bad records in our logs. There weren't any stops in writing data to the SD Card and everything worked as we intended. Our cansat survived the whole flight in one piece, and everything was in the same state as before the start, which was surprising to us because we expected electronics to be damaged and completely unusable, but everything was in perfect state!
+Ending!
+The canSat project was an amazing experience for us. We learned a lot not only about the 
+engineering and microcontroller programming itself but also about the management of group projects,
+assigning tasks and roles, and social media management during the whole project.
+We not only have fulfilled both of our missions but also {{tu cos dodac}}
