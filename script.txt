@@ -19,3 +19,5 @@ engineering and microcontroller programming itself but also about the management
 assigning tasks and roles, and social media management during the whole project.
 We not only have fulfilled both of our missions but also made friends and 
 gained a lot of hands-on knowledge that we wouldn't be able to get otherwise. 
+We already dicuss ideas for the next editions of this competition, 
+and we look up to using more advanced tech, i.e raspberry pies or motors. 
