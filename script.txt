@@ -14,4 +14,5 @@ Ending!
 The canSat project was an amazing experience for us. We learned a lot not only about the 
 engineering and microcontroller programming itself but also about the management of group projects,
 assigning tasks and roles, and social media management during the whole project.
-We not only have fulfilled both of our missions but also {{tu cos dodac}}
+We not only have fulfilled both of our missions but also made friends and 
+gained a lot of hands-on knowledge that we wouldn't be able to get otherwise. 
