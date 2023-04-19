@@ -1,0 +1,12 @@
+The contact force measuring contraption contains a force sensor and a small metal ball that can move loosely inside the metal tube.
+When the cansat starts accelerating, the contact force read by the sensor is the sum of the weight of the ball and the inertia force. Thanks to the short delays in recording data on the card we were able to detect the moment when our cansat hit the ground.
+ 
+The force sensor gives analog values, to get the value of the force in Newtons, we made a series of measurements using
+a circular dynamometer that measures force values ​​in newtons, and using readings of analog values ​​from the Arduino
+We calculated the coefficient for each point and we calculated their average. 
+We also use a GPS sensor that enables us to find our cansat more easily after the drop.
+
+On the upper graph, we can see force to time correlation. The moment of the flight of the rocket and the moment of landing are clearly visible. 
+The second graph shows the same value as the upper one but on a smaller scale during the launch of our cansat.
+
+Overall, we consider our mission successful. We found out that during the overloads all of the other sensors seem to be working fine. All of the values returned by them were as we expected, there weren't any readings off the scale. We didn't see any bad records in our logs. There weren't any stops in writing data to the SD Card and everything worked as we intended. Our cansat survived the whole flight in one piece, and everything was in the same state as before the start, which was surprising to us because we expected electronics to be damaged and completely unusable, but everything was in perfect state!
