@@ -6,6 +6,9 @@ a circular dynamometer that measures force values ​​in newtons, and using re
 We calculated the coefficient for each point and we calculated their average. 
 We also use a GPS sensor that enables us to find our cansat more easily after the drop.
 
+Using force measured by our sensor, we calculated acceleration and compared it
+to dedicated accelerometer, and the results are comparable and proportional. 
+
 On the upper graph, we can see force to time correlation. The moment of the flight of the rocket and the moment of landing are clearly visible. 
 The second graph shows the same value as the upper one but on a smaller scale during the launch of our cansat.
 
